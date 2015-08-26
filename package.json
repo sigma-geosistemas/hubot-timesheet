@@ -1,0 +1,24 @@
+{
+  "name": "hubot-timesheet",
+  "version": "1.0.0",
+  "description": "Track time within hubot.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigma-geosistemas/hubot-timesheet.git"
+  },
+  "keywords": [
+    "timesheet",
+    "hubot",
+    "hubot-redis-brain"
+  ],
+  "author": "George Silva <george@sigmageosistemas.com.br> (http://sigmageosistemas.com.br)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sigma-geosistemas/hubot-timesheet/issues"
+  },
+  "homepage": "https://github.com/sigma-geosistemas/hubot-timesheet#readme"
+}
